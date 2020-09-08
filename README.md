@@ -1,6 +1,6 @@
 # Web Visualization Dashboard (Latitude)
 
-Please Check The Link For Output @ https://blackfb.github.io/Web-Design-Challenge/WebVisualizations/Index.html
+Please Check The Link For Output @ https://RussCob.github.io/Web-Design-Challenge/WebVisualizations/Index.html
 
 ## Overview
 
