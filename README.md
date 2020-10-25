@@ -1,6 +1,6 @@
 # Web Visualization Dashboard (Latitude)
 
-Please Check The Link For Output @ https://RussCob.github.io/Web-Design-Project-HTML-CSS/WebVisualizations/Index.html
+Please Check The Link For Output @ https://RussCob.github.io/WebDesign-Project/WebVisualizations/Index.html
 
 ## Overview
 
